@@ -212,7 +212,20 @@ group_dict = {
         },
         {
         "battle_tag": "JustEpiC#11564"
+        },
+        {
+        "battle_tag": "Crazyeye#1402"
+        },
+        {
+        "battle_tag": "WoodEngy#1597"
+        },
+        {
+        "battle_tag": "Nothingg#11382"
+        },
+        {
+        "battle_tag": "Solution#11404"
         }
+
     ]
 }
 
